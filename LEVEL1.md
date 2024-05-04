@@ -149,14 +149,20 @@ Decision Tree is a supervised learning algorithm that can be used for Regressive
 - [https://youtu.be/PHxYNGo8NcI](https://youtu.be/PHxYNGo8NcI)
 - [https://youtu.be/_L39rN6gz7Y](https://youtu.be/_L39rN6gz7Y) 
 
-## Task 11: Exploration of a Real world application of Machine Learning
-Algorithms trained by a student taking their first steps into Machine learning are vastly different from algorithms used for professional deployment. Find out what’s on the market, and why it’s on the market, i.e. take a real world project and document the use of Machine Learning algorithms and mathematical constructs used in it.This task can be done as a case study.
-- References:
-- [https://youtu.be/ZJixNvx9BAc](https://youtu.be/ZJixNvx9BAc)
-- [https://youtu.be/xSGX8gBQDO8](https://youtu.be/xSGX8gBQDO8)
-- [https://www.youtube.com/live/WyHPyWrvAts?feature=share](https://www.youtube.com/live/WyHPyWrvAts?feature=share)
-- [https://youtu.be/U0XtE4_QLXI](https://youtu.be/U0XtE4_QLXI)
+## Task 11: SVM
+Support vector machines are supervised learning methods to create a non- probabilistic linear model, where a data value is assigned one of two classes to maximise the difference between the two classes. The data points are vectors and a hyperplane between the two classes is selected optimally to maximize the difference and regularize the loss.
 
-
+Resources:
+1. Understanding Support Vector Machines
+- [https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained](https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained)
+- [https://www.youtube.com/watch?v=ny1iZ5A8ilA&ab_channel=IntuitiveMachineLearning](https://www.youtube.com/watch?v=ny1iZ5A8ilA&ab_channel=IntuitiveMachineLearning)
+- [https://www.youtube.com/watch?v=efR1C6CvhmE&ab_channel=StatQuestwithJoshStarmer](https://www.youtube.com/watch?v=efR1C6CvhmE&ab_channel=StatQuestwithJoshStarmer)
+- [https://www.youtube.com/watch?v=_PwhiWxHK8o&ab_channel=MITOpenCourseWare](https://www.youtube.com/watch?v=_PwhiWxHK8o&ab_channel=MITOpenCourseWare)
+2. Correct and timely diagnosis of Breast Cancer, an exquisite disease is an essential matter in the medical field. Using the concept of Support Vector Machines, detect the possibility of breast cancer.
+- [https://www.freecodecamp.org/news/svm-machine-learning-tutorial-what-is-the-support-vector-machine-algorithm-explained-with-code-examples/](https://www.freecodecamp.org/news/svm-machine-learning-tutorial-what-is-the-support-vector-machine-algorithm-explained-with-code-examples/)
+- [https://www.geeksforgeeks.org/support-vector-machine-algorithm/#](https://www.geeksforgeeks.org/support-vector-machine-algorithm/#)
+- [https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+- [https://towardsdatascience.com/breast-cancer-classification-using-support-vector-machine-svm-a510907d4878](https://towardsdatascience.com/breast-cancer-classification-using-support-vector-machine-svm-a510907d4878)
+- [https://towardsdatascience.com/case-study-breast-cancer-classification-svm-2b67d668bbb7](https://towardsdatascience.com/case-study-breast-cancer-classification-svm-2b67d668bbb7)
 
 

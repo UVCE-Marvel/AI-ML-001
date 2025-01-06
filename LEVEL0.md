@@ -117,7 +117,7 @@ L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor 
 control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the
 hardware, Record videos of you doing the same.
 
-[Reference]([https://www.geeksforgeeks.org/distance-measurement-using-ultrasonic-sensor-and-arduino/](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/))
+[Reference](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 
 
 ## TASK 11: LED Toggle Using ESP32

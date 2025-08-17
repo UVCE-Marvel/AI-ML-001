@@ -238,3 +238,67 @@ Sadservers is an excellent ground to test your Linux troubleshooting skills.  He
 ## Task 19: Make a Web app
 Using express create a resource library website where you can browse the resource articles, books etc which are available and also manage your account  
 [Reference](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+
+# Domain Specific Tasks
+
+## Task 20 : Notebook Ninja – Getting Started with Jupyter
+
+Familiarize yourself with Jupyter Notebook as a tool for both coding and communication.This task is designed to build confidence in writing clean, readable, and well-structured notebooks using both code and Markdown.
+
+### Your Task:
+
+Complete the following challenges inside a single Jupyter notebook.
+
+#### Quest 1: Markdown & Presentation Skills
+
+- Use Markdown to structure and beautify your notebook:
+- Add a title and section headers ( # , ## )
+- Create a bullet list of 3 things you want to learn
+- Format text using bold, italics, and insert a horizontal line ( --- )
+- Embed an image
+- Include a code snippet using triple backticks
+
+#### Quest 2: Python Coding & Visualization
+
+- Demonstrate Python coding and Jupyter features:
+- Declare two variables, do a calculation, and print the result
+- Plot a simple graph using Matplotlib (e.g., line plot)
+- Wrap it all into a mini-report with an intro and a closing summary
+
+### Expected Outcomes:
+
+- Know how to structure a professional, readable Jupyter notebook.
+- Understand Markdown basics for data storytelling.
+- Build confidence in combining code, comments, and visualizations.
+- Develop the habit of documenting your thought process clearly.
+
+### Precautions:
+
+* Don’t mix up code and markdown cells , switch cell types appropriately.
+* Don’t clutter , use whitespace and headers to maintain readability.
+* Keep your notebook clean by remove unused cells or redundant outputs.
+
+#### Learn to Install and use Jupyter:
+
+* [Install](https://jupyter.org/install)
+* https://youtu.be/PxMN8xT9NbA?feature=shared
+* https://youtu.be/HW29067qVWk?feature=shared
+* https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+* [Official Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+
+## Task 21: Watch & Reflect – Intro to Machine Learning
+
+Understand foundational ML concepts and data preparation techniques by watching two
+beginner-friendly videos and writing an article.
+
+### Watch the following videos:
+
+1. A Gentle Introduction to Machine Learning by **StatQuest**
+* [Watch here](https://youtu.be/Gv9_4yMHFhI?feature=shared)
+
+2. How is Data Prepared for Machine Learning? by **AltexSoft**
+* [Watch here](https://youtu.be/P8ERBy91Y90?feature=shared)
+
+### Your Task:
+Write a resource article (300–500 words) summarizing the contents of the two videos and your understanding of it , and upload it in the resource articles page of the MARVEL website
+

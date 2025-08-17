@@ -164,6 +164,9 @@ Understand binary classification through hands-on experience by building a logis
 	* Training time
 	* Implementation difficulty and interpretability
 
+[Download Dataset](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
+
+
 ### Expected Outcomes :
 
 * Master the inner mechanics of logistic regression
@@ -176,7 +179,6 @@ Understand binary classification through hands-on experience by building a logis
 * Watch out for issues like vanishing gradients and poor convergence.
 * Ensure your dataset is normalized.
 
-[Download Dataset](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
 
 Understand Logistic Regression:
 * https://youtu.be/yIYKR4sgzI8?feature=shared

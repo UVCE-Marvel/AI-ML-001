@@ -23,7 +23,7 @@ Be able to compare MATLAB’s workflow with Python-based tools like scikit-learn
 
 Ensure stable internet as your progress might be lost if page resets .
 
-## TASK 2 : Kaggle Crafter — Build & Publish Your Own Dataset
+## TASK 2 : Kaggle Crafter - Build & Publish Your Own Dataset
 
 Learn the essentials of data curation, documentation, and publishing by creating and sharing your own dataset on Kaggle. This task will help you understand what makes a dataset usable, discoverable, and valuable to the data science community.
 ### Your Task:
@@ -187,7 +187,7 @@ Implement Logistic Regression From Scratch:
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 * https://youtu.be/JDU3AzH3WKg?feature=shared
 
-## TASK 6 : Battle-Test Your Model — Support Vector Machines
+## TASK 6 : Battle-Test Your Model - Support Vector Machines
 
 Understand and implement Support Vector Machines (SVM) using `scikit-learn` , then stress-test your model by injecting noise into the data to observe how its performance deteriorates. Use Red Wine quality Dataset.
 
@@ -314,7 +314,7 @@ In this task, you'll build a K-Nearest Neighbors (KNN) classifier using the Brea
 * https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
 * https://youtu.be/rTEtEy5o3X0?feature=shared
 
-## TASK 9 : Evaluation Metrics – Pick the Best Performer!
+## TASK 9 : Evaluation Metrics - Pick the Best Performer!
 
 You will receive 5 pretrained ML models saved as .pkl files. Your goal is to evaluate and compare them using a test dataset and identify the best-performing model.
 

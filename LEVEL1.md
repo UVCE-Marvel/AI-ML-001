@@ -1,4 +1,4 @@
-# System Requirements:
+## System Requirements:
 
 * Jupyter Notebook([installed](https://jupyter.org/install) or set up)
 * Python IDE( ([VS Code ](https://code.visualstudio.com/download)or [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows#)).

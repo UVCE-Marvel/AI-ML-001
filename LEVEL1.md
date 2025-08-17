@@ -94,7 +94,7 @@ Learn how to preprocess and clean raw, messy datasets using Pandas for better ma
 * Don’t blindly drop nulls-understand their significance.
 * Keep a backup of raw data before applying transformations.
 <br>
-[ Download Dataset](https://drive.google.com/file/d/1GYQK3_S_NWlO0sUIViCPTrVGvdTXvGrC/view?usp=drive_link)
+#### [Download Dataset](https://drive.google.com/file/d/1GYQK3_S_NWlO0sUIViCPTrVGvdTXvGrC/view?usp=drive_link)
 
 #### Learn Pandas:
 
@@ -137,7 +137,7 @@ G-Flix Inc. suspects a breach , but not from the outside. Your job as a **Data F
 * Use multiple features to justify suspicious behavior.
 * Validate anomalies through both visual and algorithmic evidence.
 <br>
- [Download Dataset](https://drive.google.com/file/d/12B1wpYOWGccgSC-1_BXA5j376xkLO9tr/view?usp=drive_link)
+#### [Download Dataset](https://drive.google.com/file/d/12B1wpYOWGccgSC-1_BXA5j376xkLO9tr/view?usp=drive_link)
  
 #### Understand the concept and implementation:
 
@@ -164,7 +164,7 @@ Understand binary classification through hands-on experience by building a logis
 	* Training time
 	* Implementation difficulty and interpretability
 
-[Download Dataset](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
+#### [Download Dataset](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
 
 
 ### Expected Outcomes :
@@ -207,8 +207,8 @@ Understand and implement Support Vector Machines (SVM) using `scikit-learn` , th
 ### Visualize the Results
 * Create a line plot of performance metrics vs. noise level
 * Highlight the threshold where model performance drops sharply
-<br>
- [Download Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+  <br>
+#### [Download Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 
 ### Expected Outcomes:
 * Be able to apply SVMs to real-world datasets
@@ -345,8 +345,8 @@ You will receive 5 pretrained ML models saved as .pkl files. Your goal is to eva
 * Handle exceptions if a model fails to load or predict.
 * Verify test data shape matches model input requirements.
 <br>
- [Download Pickle Files](https://drive.google.com/drive/folders/1JohwXYQ3DMUaxgbZPUiVZKMGugQdRqwD) <br>
- [Install Joblib](https://joblib.readthedocs.io/en/latest/installing.html)
+#### [Download Pickle Files](https://drive.google.com/drive/folders/1JohwXYQ3DMUaxgbZPUiVZKMGugQdRqwD) <br>
+#### [Install Joblib](https://joblib.readthedocs.io/en/latest/installing.html)
 
 Learn how to use Joblib for machine learning:
 

@@ -176,7 +176,7 @@ Understand binary classification through hands-on experience by building a logis
 * Watch out for issues like vanishing gradients and poor convergence.
 * Ensure your dataset is normalized.
 
-## Download Dataset
+[Download Dataset](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
 
 Understand Logistic Regression:
 * https://youtu.be/yIYKR4sgzI8?feature=shared

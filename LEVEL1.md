@@ -61,13 +61,13 @@ Add a subtitle, tags, description, and a cover image
 
 * Avoid sensitive, personal, or plagiarized data
 * Keep your dataset clean and minimal
-
+<br>
 Learn how to create Fake Datasets in Python:
 * https://medium.com/@sangitapokhrel911/generating-fake-data-in-python-with-faker-and-drawdata-synthetic-data-generation-dc77d73e8521
 * https://youtu.be/xSPJUMpbycA?feature=shared
 * https://youtu.be/VJAEMZt_Uh0?feature=shared
-
-Learn how to upload Dataset to Kaggle : 
+<br>
+##### Learn how to upload Dataset to Kaggle : 
 <br>
 [Article](https://medium.com/@sohanaiyappa/how-to-upload-a-dataset-to-kaggle-and-get-a-high-usability-score-a-beginners-guide-b57356a3339d)
 
@@ -96,13 +96,13 @@ Learn how to preprocess and clean raw, messy datasets using Pandas for better ma
 <br>
 #### [Download Dataset](https://drive.google.com/file/d/1GYQK3_S_NWlO0sUIViCPTrVGvdTXvGrC/view?usp=drive_link)
 
-#### Learn Pandas:
+##### Learn Pandas:
 
 * https://youtu.be/mkYBJwX_dMs?feature=shared
 * [Official Documentation](https://pandas.pydata.org/docs/)
 * [Notebook](https://colab.research.google.com/drive/1h4azbBQEoGC1wyDIXLn3yKCLe2sVssaq?usp=sharing)
 
-### Learn to clean dataset using Pandas:
+##### Learn to clean dataset using Pandas:
 
 * https://youtu.be/bDhvCp3_lYw?feature=shared
 * https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/
@@ -139,12 +139,12 @@ G-Flix Inc. suspects a breach , but not from the outside. Your job as a **Data F
 <br>
 #### [Download Dataset](https://drive.google.com/file/d/12B1wpYOWGccgSC-1_BXA5j376xkLO9tr/view?usp=drive_link)
  
-#### Understand the concept and implementation:
+##### Understand the concept and implementation:
 
 * https://www.datacamp.com/tutorial/introduction-to-anomaly-detection
 * https://youtu.be/UYR5NH_D9g0?feature=shared
 
-#### Learn to implement Different Anomaly Detection Algorithms :
+##### Learn to implement Different Anomaly Detection Algorithms :
 
 * https://www.geeksforgeeks.org/comparing-anomaly-detection-algorithms-for-outlier-detection-on-toy-datasets-in-scikit-learn/?ref=rp
 * https://youtu.be/kN--TRv1UDY?feature=sharedhttps://youtu.be/RDZUdRSDOok?feature=shared
@@ -180,7 +180,8 @@ Understand binary classification through hands-on experience by building a logis
 * Ensure your dataset is normalized.
 
 <br>
-Understand Logistic Regression:
+
+##### Understand Logistic Regression:
 * https://youtu.be/yIYKR4sgzI8?feature=shared
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
@@ -220,10 +221,10 @@ Understand and implement Support Vector Machines (SVM) using `scikit-learn` , th
 * Gradually increase noise in small steps (e.g., std dev: 0.01 → 0.5).
 * Avoid complex kernels with small datasets.
 
-### Understand SVMs:
+##### Understand SVMs:
 * https://youtu.be/8A7L0GsBiLQ?feature=shared
 * https://www.geeksforgeeks.org/support-vector-machine-algorithm/
-### Implement SVMs:
+##### Implement SVMs:
 * https://youtu.be/T9UcK-TxQGw?feature=shared
 * https://www.freecodecamp.org/news/svm-machine-learning-tutorial-what-is-the-support-vector-machine-algorithm-explained-with-code-examples/
 * https://www.geeksforgeeks.org/support-vector-machine-algorithm/(https://www.geeksforgeeks.org/support-vector-machine-algorithm/)
@@ -261,15 +262,15 @@ Investigate potential biases in the model by analyzing its predictions across de
 * Handle missing demographic info appropriately.
 * Clearly define demographic groups (e.g., gender, age brackets).
 * Watch for proxy variables causing indirect bias.
-### Understanding Decision Trees
+##### Understanding Decision Trees
 
 * https://youtu.be/_L39rN6gz7Y?feature=shared
-### Understand ID3 :
+##### Understand ID3 :
 
 * https://youtu.be/YtebGVx-Fxw?feature=shared
 * https://youtu.be/CWzpomtLqqs?feature=shared
 
-### Implement ID3 :
+##### Implement ID3 :
 
 - https://towardsdatascience.com/id3-decision-tree-classifier-from-scratch-in-python-b38ef145fd90
 - https://medium.com/geekculture/step-by-step-decision-tree-id3-algorithm-from-scratch-in-python-no-fancy-library-4822bbfdd88f
@@ -277,7 +278,7 @@ Investigate potential biases in the model by analyzing its predictions across de
 
 ## TASK 8 : KNN with Ablation Study
 
-In this task, you'll build a K-Nearest Neighbors (KNN) classifier using the Breast Cancer Wisconsin dataset. The goal is to not only train and evaluate the classifier, but also to conduct a feature ablation study to determine which features are most important for accurate classification. By removing one feature at a time and observing the effect on model performance, you'll identify which features significantly contribute to the model’s prediction.
+In this task, you'll build a K-Nearest Neighbors (KNN) classifier using the [Breast Cancer Wisconsin dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data). The goal is to not only train and evaluate the classifier, but also to conduct a feature ablation study to determine which features are most important for accurate classification. By removing one feature at a time and observing the effect on model performance, you'll identify which features significantly contribute to the model’s prediction.
 
 ### Your Task:
 
@@ -305,12 +306,12 @@ In this task, you'll build a K-Nearest Neighbors (KNN) classifier using the Brea
 * Compare all 4 metrics, not just accuracy.
 * Ensure only one feature is removed at a time.
 
-#### Understand KNN :
+##### Understand KNN :
 
 * https://youtu.be/HVXime0nQeI?feature=shared
 * https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
 
-#### Implementation:
+##### Implementation:
 
 * https://medium.com/@amirm.lavasani/classic-machine-learning-in-python-k-nearest-neighbors-knn-a06fbfaaf80a
 * https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
@@ -348,13 +349,13 @@ You will receive 5 pretrained ML models saved as .pkl files. Your goal is to eva
 #### [Download Pickle Files](https://drive.google.com/drive/folders/1JohwXYQ3DMUaxgbZPUiVZKMGugQdRqwD) <br>
 #### [Install Joblib](https://joblib.readthedocs.io/en/latest/installing.html)
 
-Learn how to use Joblib for machine learning:
+##### Learn how to use Joblib for machine learning:
 
 * https://www.geeksforgeeks.org/save-and-load-machine-learning-models-in-python-with-scikit-learn/
 * https://youtu.be/lK0aVny0Rsw?feature=shared
 * https://youtu.be/Dm4up8_zJdo?feature=shared
 
-### Evaluation Metrics:
+##### Evaluation Metrics:
 
 * https://youtu.be/Kdsp6soqA7o?feature=shared
 * https://youtu.be/4jRBRDbJemM?feature=shared

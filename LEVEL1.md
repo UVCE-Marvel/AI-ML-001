@@ -68,8 +68,6 @@ Learn how to create Fake Datasets in Python:
 * https://youtu.be/VJAEMZt_Uh0?feature=shared
 <br>
 ##### Learn how to upload Dataset to Kaggle : 
-<br>
-
 [Article](https://medium.com/@sohanaiyappa/how-to-upload-a-dataset-to-kaggle-and-get-a-high-usability-score-a-beginners-guide-b57356a3339d)
 
 ## TASK 3 : Data Detox - Data Cleaning using Pandas

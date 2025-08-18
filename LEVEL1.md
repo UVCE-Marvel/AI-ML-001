@@ -69,6 +69,7 @@ Learn how to create Fake Datasets in Python:
 <br>
 ##### Learn how to upload Dataset to Kaggle : 
 <br>
+
 [Article](https://medium.com/@sohanaiyappa/how-to-upload-a-dataset-to-kaggle-and-get-a-high-usability-score-a-beginners-guide-b57356a3339d)
 
 ## TASK 3 : Data Detox - Data Cleaning using Pandas
@@ -185,7 +186,7 @@ Understand binary classification through hands-on experience by building a logis
 * https://youtu.be/yIYKR4sgzI8?feature=shared
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 
-Implement Logistic Regression From Scratch:
+##### Implement Logistic Regression From Scratch:
 * https://towardsdatascience.com/logistic-regression-from-scratch-in-python-ec66603592e2/
 * https://www.datacamp.com/tutorial/understanding-logistic-regression-python
 * https://youtu.be/JDU3AzH3WKg?feature=shared
@@ -197,13 +198,13 @@ Understand and implement Support Vector Machines (SVM) using `scikit-learn` , th
 ### Your Task:
 * Implement SVM Using scikit-learn
 * Noise Robustness Experiment:
-	* Gradually add Gaussian/random noise to the dataset:
-	* Begin with small noise levels (e.g., ±1%)
-	* Increase progressively (e.g., ±5%, ±10%, etc.)
+		* Gradually add Gaussian/random noise to the dataset:
+		* Begin with small noise levels (e.g., ±1%)
+		* Increase progressively (e.g., ±5%, ±10%, etc.)
 * At each level:
-	* Retrain the model
-	* Evaluate and log the metrics
-	* Identify the breakdown point - the level of noise where the model starts to fail.
+		* Retrain the model
+		* Evaluate and log the metrics
+		* Identify the breakdown point - the level of noise where the model starts to fail.
 
 ### Visualize the Results
 * Create a line plot of performance metrics vs. noise level
@@ -238,17 +239,17 @@ Investigate potential biases in the model by analyzing its predictions across de
 * Build a Decision Tree from Scratch using ID3 Algorithm
 * Evaluate Model Performance
 * Use performance metrics:
-	* Accuracy
-	* Precision
-	* Recall
-	* F1-score
+		* Accuracy
+		* Precision
+		* Recall
+		* F1-score
 * Analyze feature importance:
-	* Which features were most influential in the tree?
-	* Do these make intuitive or ethical sense?
+		* Which features were most influential in the tree?
+		* Do these make intuitive or ethical sense?
 * Conduct a Fairness Analysis
-	* Slice the data by demographic groups:
-	* Gender (Male/Female/Other)
-	* Age brackets (e.g., &lt;25, 25–35, 35+)
+		* Slice the data by demographic groups:
+		* Gender (Male/Female/Other)
+		* Age brackets (e.g., &lt;25, 25–35, 35+)
 ### Discuss:
 * Demographic Parity: Are hiring decisions independent of gender or age?
 * Equal Opportunity: Are qualified candidates from all groups equally likely to be hired?
@@ -283,13 +284,13 @@ In this task, you'll build a K-Nearest Neighbors (KNN) classifier using the [Bre
 ### Your Task:
 
 *  Preprocess Data:
-	* Drop id , `encode diagnosis` (M=1,$ $,B=0)$ , and normalize features.
+		* Drop id , `encode diagnosis` (M=1,$ $,B=0)$ , and normalize features.
 * Train KNN Model:
-	* Use `KNeighborsClassifier` (e.g., $k=5)$ , train-test split, and evaluate.
+		* Use `KNeighborsClassifier` (e.g., $k=5)$ , train-test split, and evaluate.
 * Feature Ablation:
-	* Remove one feature at a time, retrain, record metrics (accuracy, precision, recall, F1score).
+		* Remove one feature at a time, retrain, record metrics (accuracy, precision, recall, F1score).
 * Analyze Impact:
-	* Identify features whose removal drops performance the most.
+		* Identify features whose removal drops performance the most.
 
 ### Expected Outcomes
 
@@ -327,8 +328,8 @@ You will receive 5 pretrained ML models saved as .pkl files. Your goal is to eva
 * Load each pickle file using joblib .
 * Use the model to predict on the test set.
 * Evaluate:
-	* Classification: accuracy, precision, recall, F1-score.
-	* Regression: MSE, RMSE, R².
+		* Classification: accuracy, precision, recall, F1-score.
+		* Regression: MSE, RMSE, R².
 * Compare all scores and conclude which model performs best, with reasons
 
 ### Expected Outcomes:

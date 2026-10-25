@@ -173,7 +173,7 @@ Understand binary classification through hands-on experience by building a logis
 * Learn how scikit-learn abstracts complexity
 * Build confidence in choosing the right level of abstraction for ML tasks
 
-## Precautions
+### Precautions:
 
 * Watch out for issues like vanishing gradients and poor convergence.
 * Ensure your dataset is normalized.
